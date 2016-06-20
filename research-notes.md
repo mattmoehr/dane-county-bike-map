@@ -28,5 +28,5 @@
 
 - Tom Patterson (www.shadedrelief.com) makes awesome maps that are kind to the user.
 - Here are some symbols from NPS https://www.nps.gov/hfc/carto/map-symbols.cfm
-- 
+
 
