@@ -23,3 +23,10 @@
 
 - http://www.opencyclemap.org/
 - These are rendered tiles. They seem to open for download, but they can not be styled. I think.
+
+### National Park Service
+
+- Tom Patterson (www.shadedrelief.com) makes awesome maps that are kind to the user.
+- Here are some symbols from NPS https://www.nps.gov/hfc/carto/map-symbols.cfm
+- 
+
