@@ -50,9 +50,11 @@ with open('../data/osm_bike_paths.json', 'w') as outfile:
     json.dump(data, outfile)
 
 print(parsed)
+
+print(elements)
 '''
 
-print(elements) 
+print json.dumps(elements, indent = 4)
 
 
 '''
